@@ -1,8 +1,8 @@
 <?php
 print "Hello, World! php version is " . PHP_VERSION . "\n";
-<br>
+<br />
 print "Hello, this is Narendra Lucky " . "\n";
-<br>
+<br />
 print "I started work at IMSS " . "\n";
 ?>
 
